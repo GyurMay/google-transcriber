@@ -12,7 +12,7 @@ WIT Aand then, ask you to sign in your google account where you want to store th
 ![image](https://github.com/GyurMay/google-transcriber/assets/19346467/bbe8c8c3-0fcf-4621-a3bf-bf76fc4c5128)
 
 
-3. Select the google account you want to store the transcription to. Give access if prompted
+3. Select the google account you want to store the transcription to. Give access if prompted. (You only have to do this step once)
 
 ![image](https://github.com/GyurMay/google-transcriber/assets/19346467/c7207599-fa31-42bf-81f5-43c76e5fd426)
 
