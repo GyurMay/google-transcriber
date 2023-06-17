@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <style>
+input {
+  border: 1px #b5dcb3 solid;
+  border-radius: 0;
+  border-radius: 50px;
+  padding: 1em;
+}
+body {
+  display: grid;
+  place-content: center;
+}
+form{
+  font: 20px Arial;
+  position: relative;
+  margin-top: 50%;
+}
+    </style>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Wit Transcribe</title>
+  </head>
+  <body>
+  <form id="form" method="POST" enctype="multipart/form-data" action="save_transcript">
+    <fieldset>
+      <legend>Wit Transcribe</legend>Chat 
+      <input type="file" name="audioFile" accept=".mp3" id="aa" />
+      <input type="submit" value="Transcribe" style="background:#be9ddc;font-weight: bold;">
+    </fieldset>
+  </form>
+  <script>
+  </script>
+</body>
+</html>
